@@ -20,11 +20,11 @@
 ### 1. 添加多语言文件
 > 这一步其实创建相应的文件还是很好处理的，麻烦在于相应文档的翻译！这个才是费事的地方！
 
-![演示图片1](https://github.com/AngleLong/LanguageDemo/tree/master/img/Snip20190707_15.png)
+![演示图片1](https://github.com/AngleLong/LanguageDemo/blob/master/img/Snip20190707_15.png)
 
 按照这个顺序点了之后，然后你按照这个和你们的需求选择一下就好了
 
-![演示图片2](https://github.com/AngleLong/LanguageDemo/tree/master/img/Snip20190707_17.png)
+![演示图片2](https://github.com/AngleLong/LanguageDemo/blob/master/img/Snip20190707_17.png)
 
 这样就创建完成了相应的语言环境了，这里还有一个需要注意，必须每个文件中都有相同的key，否则会有相应的报错提示！这里你看到报错，基本上都是缺少或者少写了！
 
